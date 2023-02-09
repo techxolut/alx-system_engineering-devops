@@ -1,1 +1,1 @@
-Script for printing current directory
+Solutions to task on Shell Basics
